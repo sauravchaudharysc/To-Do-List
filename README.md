@@ -1,10 +1,10 @@
-You can get a live view at [](https://todolistschool.herokuapp.com/)
+You can get a live view at ![ToDoList](https://todolistschool.herokuapp.com/)
 
 ### Pre-Requisites
 
 - Node
 
-  If not downloaded it from here [](https://nodejs.org/en/download/)
+  If not downloaded it from here ![Download it](https://nodejs.org/en/download/)
 
 ### Run
 
