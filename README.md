@@ -1,3 +1,6 @@
+ToDo List-The Reminder App
+In this modern era people usually forgot to do stuffs that they planned to do.
+This app generally help you with getting reminder for the left things you need to finish before its too late.
 # You can get a live view at [ToDoList](https://todolistschool.herokuapp.com/)
 
 ### Pre-Requisites
